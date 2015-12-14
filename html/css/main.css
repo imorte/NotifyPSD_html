@@ -29,10 +29,6 @@ body {
 	min-width: 320px;
 	position: relative;
 }
-h3{
-	margin: 0;
-	padding: 0;
-}
 .hidden {
 	display: none;
 }
